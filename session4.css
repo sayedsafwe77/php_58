@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* .parent{
+    background: black;
+    position: relative;
+    color: white;
+    height: 50vh;
+    top: 30vh;
+}
+.child{
+    position: absolute;
+    background: red;
+    top:5vh;
+} */
+/* .nav{
+    position: sticky;
+    top: 0px;
+    background: brown;
+}
+.nav li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 15px;
+
+}
+.nav a{
+    text-decoration: none;
+}
+.nav li:hover{
+    background: yellow;
+}
+.content{
+    height: 50vh;
+}
+.content3{
+    position: sticky;
+    top: 40px; 
+    background: yellow;
+} */
+ #google-paragraph{
+    visibility: hidden;
+}
+a:hover +  #google-paragraph{
+    visibility: visible;
+} 
